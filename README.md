@@ -23,7 +23,7 @@ Hello world! We from the Digital Media, Arts, and Technology Program at Penn Sta
 ### Notes:
 * Open your shell. :-) 
 * Right-click on a directory and open your shell (Git Bash for Windows or Terminal for the Posix (Mac/Linux) machines).
-* [Download our GitHub as a zipped directory](LINK ME!!!!) and unzip it and save it somewhere useful: Downloads or Desktop. 
+* [Download our GitHub as a zipped directory](https://github.com/newtfire/command-line-workshop/archive/refs/tags/1.0.zip) and unzip it and save it somewhere useful: Downloads or Desktop. 
 *  Navigate there in your shell. (Or right-click in your GUI file manager and open your shell.
 
 #### Basic Command Line Navigation
