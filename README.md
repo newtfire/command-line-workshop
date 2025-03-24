@@ -21,4 +21,35 @@ Hello world! We from the Digital Media, Arts, and Technology Program at Penn Sta
 * Attendees clone/pull GitHub repo?
 
 ### Notes:
-* 
+* Open your shell. :-) 
+* Right-click on a directory and open your shell (Git Bash for Windows or Terminal for the Posix (Mac/Linux) machines).
+* [Download our GitHub as a zipped directory](LINK ME!!!!) and unzip it and save it somewhere useful: Downloads or Desktop. 
+*  Navigate there in your shell. (Or right-click in your GUI file manager and open your shell.
+
+#### Basic Command Line Navigation
+* `pwd` from where you are
+* `cd` down into a directory
+* `cd` up with `cd ..`
+* `ls` to "look see"
+    * `ls -lh` and `ls -lisa` 
+* `cat` to view an existing file
+
+#### Command Line to Make New Directories/Files
+* `mkdir` make a directory
+* `vi` and `nano`: create and store a file
+
+#### Command Line to learn about Directories and Files
+* grep [in one of the directories for ____]
+* basic regex at command line [COME UP WITH FUN EXAMPLE]
+
+For Review and Reference:
+* [Our interactive web slide-tutorial](https://slides.com/elisabeshero-bondar/shell-git-nav/)
+* [Geeks for Geeks: Basic Shell Commands](https://www.geeksforgeeks.org/basic-shell-commands-in-linux/)
+* [Geeks for Geeks: Basic Linux Commands for day to day life](https://www.geeksforgeeks.org/basic-linux-commands-day-day-life/)
+* [Educative: Bash Cheat Sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
+
+  
+
+
+  
+
