@@ -39,8 +39,10 @@ Hello world! We from the Digital Media, Arts, and Technology Program at Penn Sta
 * `vi` and `nano`: create and store a file
 
 #### Command Line to learn about Directories and Files
-* grep [in one of the directories for ____]
+* `grep` [in one of the directories for ____]
 * basic regex at command line [COME UP WITH FUN EXAMPLE]
+* `wc`
+  
 
 For Review and Reference:
 * [Our interactive web slide-tutorial](https://slides.com/elisabeshero-bondar/shell-git-nav/)
