@@ -8,7 +8,13 @@ Hello world! We from the Digital Media, Arts, and Technology Program at Penn Sta
 * What is command line?
 * Brief history of command line
 * Windows vs. Mac
-  * Windows: install Git Bash Shell?
+  * **Windows:**
+    * Install: [https://git-scm.com/download/win](https://git-scm.com/download/win) (probably choose the 64-bit download)
+    * How to tell whether you have 32-bit or 64-bit? [https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808](https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808)
+  * **Mac:**
+    * Open your Terminal app (Launchpad: look for Terminal):
+    * Type in: `git --version`
+    * Follow the instructions to install git
 * Explore home directory
 * Explore sample directories & text files
 * Presenters show what it looks like to work in a shared environment (add, commit, & push)
