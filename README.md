@@ -4,7 +4,7 @@ Hello world! We from the Digital Media, Arts, and Technology Program at Penn Sta
 
 ## Agenda: 
 
-* Introductions (Dr. B and students)
+* Introductions (Dr. B and DIGIT 496 students)
 * What is command line?
 * Brief history of command line
 * Windows vs. Mac
