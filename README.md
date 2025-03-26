@@ -40,23 +40,22 @@ social sciences.
 
 #### Basic Command Line Navigation
 * `pwd` from where you are
+* `ls` to "look see"
 * `cd` down into a directory
 * `cd` up with `cd ..`
-* `ls` to "look see"
-    * `ls -lh` and `ls -lisa` 
-* `cat` to view an existing file
+* `ls -lh` and `ls -lisa` 
+* `cat filename.extension` to view an existing file
 
-#### Command Line to Make New Directories/Files
+#### Commands for Making New Directories/Files
 * `mkdir` make a directory
 * `vi` and `nano`: create and store a file
 
-#### Command Line to learn about Directories and Files
-* `grep` [in one of the directories for ____]
+#### Commands to explore Directories and Files
+* `grep` (in one of the directories for ____)
 * basic regex at command line [COME UP WITH FUN EXAMPLE]
 * `wc`
   
-
-For Review and Reference:
+## For Review and Reference:
 * [Our interactive web slide-tutorial](https://slides.com/elisabeshero-bondar/shell-git-nav/)
 * [Geeks for Geeks: Basic Shell Commands](https://www.geeksforgeeks.org/basic-shell-commands-in-linux/)
 * [Geeks for Geeks: Basic Linux Commands for day to day life](https://www.geeksforgeeks.org/basic-linux-commands-day-day-life/)
