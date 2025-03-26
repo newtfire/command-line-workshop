@@ -2,6 +2,16 @@
 
 Hello world! We from the Digital Media, Arts, and Technology Program at Penn State Behrend are here to present a hands-on workshop to familiarize ourselves with command line skills. Learning to access computers at command line is both timely and a historic look backward to a time in the 1980s and 90s when the graphical user interface was new and unfamiliar for use in personal computers. The workshop will give everyone a tour of things we can see and explore at a touch with the command line in a cross-platform compatible context available for Windows, Mac, and Linux users. We will circulate instructions in advance to work with the free and open source Git Bash Shell to explore common powerful command line skills available to all of us who work with computers. We'll discuss and reflect on the history and ongoing significance of command line skills for technological literacy in the humanities and social sciences—especially during the age of AI.
 
+### *Learning Objectives*
+* Learn basic command line skills: how to navigate, organize, search files
+without the graphical user interface;
+* Gain historical perspective on the command line interface in the evolution of
+computing “over the decades”; 
+* Learn about cross-platform compatibility working with the Git Bash shell in
+the context of Mac, Linux (posix) systems vs. Windows;
+* Discuss the importance of command line skills for projects in humanities and
+social sciences.
+
 ## Agenda: 
 
 * (5 min) Introductions (Dr. B and DIGIT 496 students)
