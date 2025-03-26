@@ -4,9 +4,8 @@ Hello world! We from the Digital Media, Arts, and Technology Program at Penn Sta
 
 ## Agenda: 
 
-* Introductions (Dr. B and DIGIT 496 students)
-* What is command line?
-* Brief history of command line
+* (5 min) Introductions (Dr. B and DIGIT 496 students)
+* (5 min) Brief history & what is command line?
 * Windows vs. Mac
   * **Windows:**
     * Install: [https://git-scm.com/download/win](https://git-scm.com/download/win) (probably choose the 64-bit download)
