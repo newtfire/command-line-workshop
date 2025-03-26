@@ -37,22 +37,22 @@ social sciences.
     * Type in: `git --version`
     * Follow the instructions to install git
 
-#### Basic Command Line Navigation & Exploration
+#### Basic Command Line Navigation
 * `pwd` from where you are
 * `ls` to "look see"
 * `cd` down into a directory
 * `cd` up with `cd ..`
 * `ls -lh` and `ls -lisa` 
 * `cat filename.extension` to view an existing file
-* `mkdir directoryName` make a directory
-* `wc filename.extension` for word count
 
 #### More commands for Making New Directories/Files
+* `mkdir directoryName` make a directory
 * `vi` and `nano`: create and store a file
 
 #### More commands to explore Directories and Files
 * `grep` (in one of the directories for ____)
 * basic regex at command line [COME UP WITH FUN EXAMPLE]
+* `wc filename.extension` for word count
   
 ## For Review and Reference:
 * [Our interactive web slide-tutorial](https://slides.com/elisabeshero-bondar/shell-git-nav/)
