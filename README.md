@@ -50,14 +50,19 @@ social sciences.
 * `vi` and `nano`: create and store a file
 
 #### More commands to explore/study Directories and Files
+* `wc filename.extension` for word count. (Try on one of our files.)
 * `grep` (stands for "global regular expression print" (as in print to console). 
     * Grep over a single file for the pattern "rest" (USE THE TAB TO AUTOCOMPLETE THE FILENAME IN THIS): `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always`
     * Pipe the results to a word count (the number of matches) with `wc`: `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt | wc -l`
     * Grep over a file directory for the same pattern: `grep -r "free*" lotr/` (Note: color settings should hold in the same shell session.)
+    * **Your turn**: Find out how often "free*" (or a word or word-stem of your choice) appears in political speeches by one or two presidents in our collections. (Use `ls` to explore our command-line-workshop files).
     * **Pipe the results** to a file that you save: `grep -r "free*" lotr > mygrepResults.txt`
     * Use `ls` to look for your file. Use nano or vim to open it. CTRL + X to escape the view window.
-* basic regex at command line [COME UP WITH FUN EXAMPLE]
-* `wc filename.extension` for word count
+
+* More complicated things can be done with shell-scripting (multiple lines, for loops) or, better yet, Python. But you need basic shell commands for a start!
+
+##### Optional Git/Github demonstration (if we have time)
+* Dannika and Caleb demonstrating pushing and pulling new files to the command-line-workshop repo.
   
 ## For Review and Reference:
 * [Our interactive web slide-tutorial](https://slides.com/elisabeshero-bondar/shell-git-nav/)
