@@ -15,8 +15,21 @@ social sciences.
 ## Agenda: 
 
 * (5 min) Introductions (Dr. B and DIGIT 496 students)
-* (5 min) Brief history & what is command line?
-* Windows vs. Mac
+* (5 min) Brief history & what is command line? Command line vs. GUI
+* (3 min) Windows vs. Mac (Using Git Bash Shell on Windows vs MacOS Terminal)
+* (2 min) What is your "home" directory?
+* (10 min) Basic command line navigation
+* (15 min) Explore sample directories & text files
+* (5 min) Presenters show what it looks like to work in a shared environment (clone/pull, add, commit, & push)
+* (5 min) Question-time / attendees can clone/pull GitHub repo
+
+## Notes:
+* Open your shell. :-) 
+* Right-click on a directory and open your shell (Git Bash for Windows or Terminal for the Posix (Mac/Linux) machines).
+* [Download our GitHub as a zipped directory](https://github.com/newtfire/command-line-workshop/archive/refs/tags/1.0.zip) and unzip it and save it somewhere useful: Downloads or Desktop. 
+*  Navigate there in your shell. (Or right-click in your GUI file manager and open your shell.
+
+### Git Installation Instructions
   * **Windows:**
     * Install: [https://git-scm.com/download/win](https://git-scm.com/download/win) (probably choose the 64-bit download)
     * How to tell whether you have 32-bit or 64-bit? [https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808](https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808)
@@ -24,16 +37,6 @@ social sciences.
     * Open your Terminal app (Launchpad: look for Terminal):
     * Type in: `git --version`
     * Follow the instructions to install git
-* Explore home directory
-* Explore sample directories & text files
-* Presenters show what it looks like to work in a shared environment (add, commit, & push)
-* Attendees clone/pull GitHub repo?
-
-### Notes:
-* Open your shell. :-) 
-* Right-click on a directory and open your shell (Git Bash for Windows or Terminal for the Posix (Mac/Linux) machines).
-* [Download our GitHub as a zipped directory](https://github.com/newtfire/command-line-workshop/archive/refs/tags/1.0.zip) and unzip it and save it somewhere useful: Downloads or Desktop. 
-*  Navigate there in your shell. (Or right-click in your GUI file manager and open your shell.
 
 #### Basic Command Line Navigation
 * `pwd` from where you are
