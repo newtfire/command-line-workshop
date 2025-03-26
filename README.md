@@ -18,8 +18,9 @@ social sciences.
 * (5 min) Brief history & what is command line? Command line vs. GUI
 * (3 min) Windows vs. Mac (Using Git Bash Shell on Windows vs MacOS Terminal)
 * (2 min) What is your "home" directory?
-* (20 min) Basic command line navigation / explore sample directories & text files
-* (10 min) What it looks like to work in a shared environment in GitHub (clone/pull, add, commit, & push)
+* (15 min) Basic command line navigation / explore sample directories & text files
+* 10 min: Grepping, word counts, and piping to output files.
+* (5 min) If time, Git demo.
 * (5 min) Question-time / attendees can clone/pull GitHub repo
 
 ## Notes:
