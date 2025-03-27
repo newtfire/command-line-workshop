@@ -51,8 +51,13 @@ social sciences.
 * `vi` and `nano`: create and store a file
 * `rm` and `rm -r` (but please be careful!)
 * `mv` vs `cp`:
-     * `mv sourcePath targetPath` (can be used to rename a file, too)
-     *  `cp sourcePath targetPath` 
+     * `mv sourcePath targetDirectory` (can be used to rename a file, too)
+     *  `cp sourcePath targetPath`: `cp myDirectory/file.txt ..` moves up to the parent directory.
+     *  What's the difference between `cp` and `mv`?
+
+* **Your Turn**:
+    * Can you make a directory and/or file, and move the file to a new location? 
+
 
 #### More commands to explore/study Directories and Files
 * `wc filename.extension` for word count. (Try on one of our files.)
@@ -60,7 +65,7 @@ social sciences.
     * Grep over a single file for the pattern "rest" (USE THE TAB TO AUTOCOMPLETE THE FILENAME IN THIS): `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always`
     * Pipe the results to a word count (the number of matches) with `wc`: `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt | wc -l`
     * Grep over a file directory for the same pattern: `grep -r "free*" lotr/` (Note: color settings should hold in the same shell session.)
-    * **Your turn**: Find out how often "free*" (or a word or word-stem of your choice) appears in political speeches by one or two presidents in our collections. (Use `ls` to explore our command-line-workshop files).
+* **Your turn**: Find out how often "free*" (or a word or word-stem of your choice) appears in political speeches by one or two presidents in our collections. (Use `ls` to explore our command-line-workshop files).
     * **Pipe the results** to a file that you save: `grep -r "free*" lotr > mygrepResults.txt`
     * Use `ls` to look for your file. Use nano or vim to open it. CTRL + X to escape the view window.
 
