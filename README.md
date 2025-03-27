@@ -53,6 +53,9 @@ social sciences.
 * `mv` vs `cp`:
      * `mv sourcePath targetDirectory` (can be used to rename a file, too)
      *  `cp sourcePath targetPath`: `cp myDirectory/file.txt ..` moves up to the parent directory.
+     *  A word about slashes:
+         * forward: `/` : posix (Mac/Linux) filepath separators
+         * back: `\`: Windows filepath separators.
      *  What's the difference between `cp` and `mv`?
      *  What's faster: click 'n drag in the GUI or command line?
 
@@ -66,8 +69,11 @@ social sciences.
 * `grep` (stands for "global regular expression print" (as in print to console). 
     * Grep over a single file for the pattern "rest" (USE THE TAB TO AUTOCOMPLETE THE FILENAME IN THIS):
         * `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always`
-        * `grep "\d+" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always`
+        * `grep "[0-9]" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always`
+            * Find exactly three numbers together: `grep "[0-9]\{3\}" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always` 
+            * (repetition indicators must be escaped with a backslash in command line.)
     * Pipe the results to a word count (the number of matches) with `wc`: `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt | wc -l`
+    * **Your Turn** Which of the LOTR books has the most uses of words containing "free"? 
     * Grep over a file directory for the same pattern: `grep -r "free*" lotr/` (Note: color settings should hold in the same shell session.)
 * **Your turn**: Find out how often "free*" (or a word or word-stem of your choice) appears in political speeches by one or two presidents in our collections. (Use `ls` to explore our command-line-workshop files).
     * **Pipe the results** to a file that you save: `grep -r "free*" lotr > mygrepResults.txt`
