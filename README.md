@@ -73,8 +73,11 @@ social sciences.
 
 * More complicated things can be done with shell-scripting (multiple lines, for loops) or, better yet, Python. But you need basic shell commands for a start!
 
-##### Optional Git/Github demonstration (if we have time)
+##### Related Skills + Optional Git/Github demonstration (if we have time)
+* Python for easier handling of a series of items (for-loops/recursion).
+* GitHub for sharing / managing projects with version control. (Look at the history on this repo.)
 * Dannika and Caleb demonstrating pushing and pulling new files to the command-line-workshop repo.
+* Why learning command line helps you know your computer better. :-)
   
 ## For Review and Reference:
 * [Our interactive web slide-tutorial](https://slides.com/elisabeshero-bondar/shell-git-nav/)
