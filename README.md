@@ -46,9 +46,13 @@ social sciences.
 * `ls -lh` and `ls -lisa` 
 * `cat filename.extension` to view an existing file
 
-#### More commands for Making New Directories/Files
+#### More commands for Making/Changing Directories/Files
 * `mkdir directoryName` make a directory
 * `vi` and `nano`: create and store a file
+* `rm` and `rm -r` (but please be careful!)
+* `mv` vs `cp`:
+     * `mv sourcePath targetPath` (can be used to rename a file, too)
+     *  `cp sourcePath targetPath` 
 
 #### More commands to explore/study Directories and Files
 * `wc filename.extension` for word count. (Try on one of our files.)
