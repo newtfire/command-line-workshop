@@ -64,7 +64,9 @@ social sciences.
 #### More commands to explore/study Directories and Files
 * `wc filename.extension` for word count. (Try on one of our files.)
 * `grep` (stands for "global regular expression print" (as in print to console). 
-    * Grep over a single file for the pattern "rest" (USE THE TAB TO AUTOCOMPLETE THE FILENAME IN THIS): `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always`
+    * Grep over a single file for the pattern "rest" (USE THE TAB TO AUTOCOMPLETE THE FILENAME IN THIS):
+        * `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always`
+        * `grep "\d+" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always`
     * Pipe the results to a word count (the number of matches) with `wc`: `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt | wc -l`
     * Grep over a file directory for the same pattern: `grep -r "free*" lotr/` (Note: color settings should hold in the same shell session.)
 * **Your turn**: Find out how often "free*" (or a word or word-stem of your choice) appears in political speeches by one or two presidents in our collections. (Use `ls` to explore our command-line-workshop files).
