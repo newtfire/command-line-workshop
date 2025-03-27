@@ -73,7 +73,7 @@ social sciences.
             * Find exactly three numbers together: `grep "[0-9]\{3\}" lotr/01-The-Fellowship-Of-The-Ring.txt --color=always` 
             * (repetition indicators must be escaped with a backslash in command line.)
     * Pipe the results to a word count (the number of matches) with `wc`: `grep "free*" lotr/01-The-Fellowship-Of-The-Ring.txt | wc -l`
-    * **Your Turn** Which of the LOTR books has the most uses of words containing "free"? 
+        * **Your Turn**: Which of the LOTR books has the most uses of words containing "free"? 
     * Grep over a file directory for the same pattern: `grep -r "free*" lotr/` (Note: color settings should hold in the same shell session.)
 * **Your turn**: Find out how often "free*" (or a word or word-stem of your choice) appears in political speeches by one or two presidents in our collections. (Use `ls` to explore our command-line-workshop files).
     * **Pipe the results** to a file that you save: `grep -r "free*" lotr > mygrepResults.txt`
