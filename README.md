@@ -57,7 +57,8 @@ social sciences.
      *  What's faster: click 'n drag in the GUI or command line?
 
 * **Your Turn**:
-    * Can you make a directory and/or file, and move the file to a new location? 
+    * Can you make a directory and/or file, and move the file to a new location?
+    * **Hit the "up arrow" on your keyboard** and review all the commands you've entered in your shell for this session!
 
 
 #### More commands to explore/study Directories and Files
