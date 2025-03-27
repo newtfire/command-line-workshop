@@ -54,6 +54,7 @@ social sciences.
      * `mv sourcePath targetDirectory` (can be used to rename a file, too)
      *  `cp sourcePath targetPath`: `cp myDirectory/file.txt ..` moves up to the parent directory.
      *  What's the difference between `cp` and `mv`?
+     *  What's faster: click 'n drag in the GUI or command line?
 
 * **Your Turn**:
     * Can you make a directory and/or file, and move the file to a new location? 
